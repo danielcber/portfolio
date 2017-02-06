@@ -1,0 +1,104 @@
+/* PEQUENO y GLOBAL SINO ESTA EN SECCION GRANDE */
+
+h1 {
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 40px;
+}
+
+h3 {
+	font-family: 'Slabo 27px', serif;
+	font-size: 20px;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+}
+
+.btn {
+	transition: color 500ms;
+}
+
+.btn:hover {
+	color: #099C2B;
+}
+
+.caja {
+	text-align: center;
+}
+
+.caja1 {
+	transition: background-color 4s;
+	background-color: white;
+	height: 40vh;
+}
+
+.caja1 img {
+	max-width: 90vw;
+	width: 70vw;
+	height: auto;
+}
+
+.caja2 {
+	background-color: white;
+	height: 60vh;
+}
+
+.caja2 #textbox {
+	height: auto;
+	width: auto;
+	max-width: 600px;
+	text-align: left;
+	margin: 5vh 15vw 0px 15vw;
+	transition: opacity 500ms;
+}
+
+.caja2 #textbox p{
+	text-align: left;
+}
+
+.green, .greenlite {
+	transition-delay: color 4s;
+	transition: color 4s;
+}
+
+#label {
+	position: absolute;
+	right: 0;
+	top: 0;
+	background-color: rgba(0,0,0,0.8);
+	color: white;
+	padding: 5px 15px 0 25px;
+	text-align: right;
+	opacity: 0;
+	transition: opacity 750ms;
+}
+
+/*GRANDE*/
+
+@media (min-width: 992px) {
+
+	.caja1 img {
+	width: auto;
+	height: 100vh;
+}
+	.caja {
+	text-align: center;
+	height: 100vh;
+}
+
+	.caja2 {
+	height: 100vh;
+}
+
+	.caja2 #textbox {
+	margin: 35vh 10vh 0px 10vh;
+	min-width: 30vw;
+}
+
+	#label {
+	right: 0;
+	bottom: 0;
+	top: 90vh;
+}
+
+}
