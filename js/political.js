@@ -102,7 +102,7 @@ $("#translate").on("click", function() {
 //CONTACT
 var contact = `
 <strong>email</strong> dcooper2408@gmail.com<br>
-<strong>mobile</strong> +58 (414) 169 8845<br>
+<strong>mobile</strong><br>Florida: (305) 333 6740<br>Vzla: +58 (414) 169 8845<br>
 <strong>github</strong> <a target="_blank" href="https://github.com/danielcber">danielcber</a><br>
 <strong>address</strong> 9627 Singers Glen Road<br>
 Singers Glen, VA 22850<br>
