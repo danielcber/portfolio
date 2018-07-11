@@ -46,7 +46,8 @@ Experience with WordPress, Joomla, Wix, Omeka, Salesforce, and MailChimp
 <a target="_blank" href="http://coaliciondigital.org/CoalicionDigital/">Coalición Digital</a><br> A digital archiving site made with Omeka for the Coalition of Immokalee Workers<br>
 <a target="_blank" href="https://danielcber.github.io/democracy-now/frontpage">Democracy Now!</a><br>A mock site of Democracy Now! made with Angular2<br>
 <a target="_blank" href="https://github.com/danielcber/palante">Palante</a><br>My final project for URBE's 8-month Programming course<br>
-<a target="_blank" href="http://www.sombrerowayuu.com/">Sombrero Wayuu</a><br> An e-commerce site using Wordpress (Ongoing)<br>
+<a target="_blank" href="http://www.sombrerowayuu.com/">Sombrero Wayuu</a><br> An e-commerce site using Wordpress to sell Wayuu hats (Ongoing)<br>
+<a target="_blank" href="http://www.flushthetpp.org/">Trade for People and Planet</a><br> A Wordpress site for the Trade for People and Planet Campaign (Ongoing)<br>
 
 $("#webdev").on("click", function() {
 	$("#textbox").css({"opacity":"0"});
@@ -82,7 +83,7 @@ $("#translate").on("click", function() {
 });
 
 //WRITING
-// var write = "Daniel Cooper Bermudez is a political scientist, aspiring programmer, and translator currently based in Maracaibo, Venezuela. Daniel has also lived and worked in Philadelphia, PA and Immokalee, FL in the past few years. He is an active community member wherever he resides, always seeking to build relationships through shared callings and political organizing. He has worked with the Coalition of Immokalee Workers as a digital archivist and organizer, with Philadelphia Councilwoman María Quiñones Sánchez as an intern, and with Popular Resistance as a writer and on web content."
+// var write = "Daniel Cooper Bermudez is a political strategist, rising programmer, and translator currently based in Maracaibo, Venezuela. Daniel has also lived and worked in Philadelphia, PA and Immokalee, FL in the past few years. He is an active community member wherever he resides, always seeking to build relationships through shared callings and political organizing. He has worked with the Coalition of Immokalee Workers as a digital archivist and organizer, with Philadelphia Councilwoman María Quiñones Sánchez as an intern, and with Popular Resistance as a writer and on web content."
 
 // $("#writing").on("click", function() {
 // 	$("#textbox").css({"opacity":"0"});
