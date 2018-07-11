@@ -1,16 +1,16 @@
 //POLITICAL
 var political = `
-<a target="_blank" href="http://popularresistance.org">Popular Resistance</a><br>
-Writer and fundraiser<br>
-Remote, Sept 2016 - Present<br><br>
-
 <a target="_blank" href="http://codhez.org.ve/">Comisión de Derechos Humanos del Estado Zulia</a><br>
-Organizer and website manager<br>
+Development Coordinator<br>
 Maracaibo, Venezuela<br>
 April 2017 - Present<br><br>
 
+<a target="_blank" href="http://popularresistance.org">Popular Resistance</a><br>
+Digital strategist<br>
+Remote, Sept 2016 - June 2018<br><br>
+
 <a target="_blank" href="http://ciw-online.org/">Coalition of Immokalee Workers</a><br>
-Organizer<br>
+Digital Archivist<br>
 Immokalee, FL<br>
 Aug 2015 – Aug 2016<br><br>
 
@@ -41,15 +41,12 @@ Experience with WordPress, Joomla, Wix, Omeka, Salesforce, and MailChimp
 </p>
 
 <h3>Projects</h3>
+<a target="_blank" href="http://codhez.ong/ddhhpavos/">DDHH Pa Vos</a><br> An archive for human rights news from Venezuela<br>
+<a target="_blank" href="http://codhez.ong/feria/">Feria de Derechos Humanos</a><br> A promotional website for Codhez's annual Human Rights Fair<br>
 <a target="_blank" href="http://coaliciondigital.org/CoalicionDigital/">Coalición Digital</a><br> A digital archiving site made with Omeka for the Coalition of Immokalee Workers<br>
-<a target="_blank" href="https://danielcber.github.io/democracy-now/frontpage">Democracy Now!</a><br>A mocke site of Democracy Now! made with Angular2<br>
+<a target="_blank" href="https://danielcber.github.io/democracy-now/frontpage">Democracy Now!</a><br>A mock site of Democracy Now! made with Angular2<br>
 <a target="_blank" href="https://github.com/danielcber/palante">Palante</a><br>My final project for URBE's 8-month Programming course<br>
 <a target="_blank" href="http://www.sombrerowayuu.com/">Sombrero Wayuu</a><br> An e-commerce site using Wordpress (Ongoing)<br>
-
-<h3>Website manager</h3>
-<a target="_blank" href="http://codhez.org.ve/"> Codhez on Joomla</a> Human rights group in Venezuela<br>
-<a target="_blank" href="http://flushthetpp.org"> Flush the TPP on Wordpress</a> Trade justice organization<br>
-`
 
 $("#webdev").on("click", function() {
 	$("#textbox").css({"opacity":"0"});
@@ -66,7 +63,7 @@ $("#webdev").on("click", function() {
 //WEB DEV
 var translate = `
 Daniel has ample experience translating and interpreting from English to Spanish and Spanish to English in many formats.
-He has translated documents to be sent to the United Nations for indigenous peoples' and Venezuelan organizations,
+He has translated human rights reports to be sent to the United Nations for indigenous peoples' and Venezuelan organizations,
 articles for the grassroots worker organizations in the United States, political analysis pieces from community voices in 
 Venezuela, press releases, flyers, informational pamphlets, and even a feature length indigenous film from Brazil
 'Time was Endless'.
