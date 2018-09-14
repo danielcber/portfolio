@@ -48,6 +48,7 @@ Experience with WordPress, Joomla, Wix, Omeka, Salesforce, and MailChimp
 <a target="_blank" href="https://github.com/danielcber/palante">Palante</a><br>My final project for URBE's 8-month Programming course<br>
 <a target="_blank" href="http://www.sombrerowayuu.com/">Sombrero Wayuu</a><br> An e-commerce site using Wordpress to sell Wayuu hats (Ongoing)<br>
 <a target="_blank" href="http://www.flushthetpp.org/">Trade for People and Planet</a><br> A Wordpress site for the Trade for People and Planet Campaign (Ongoing)<br>
+`
 
 $("#webdev").on("click", function() {
 	$("#textbox").css({"opacity":"0"});
@@ -115,7 +116,3 @@ $("#contact").on("click", function() {
 		$("#textbox").animate({opacity:"1"});
 	}, 500);
 });
-
-
-
-
