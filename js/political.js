@@ -42,7 +42,7 @@ Experience with WordPress, Joomla, Wix, Omeka, Salesforce, and MailChimp
 
 <h3>Projects</h3>
 <a target="_blank" href="http://codhez.ong/ddhhpavos/">DDHH Pa Vos</a><br> An archive for human rights news from Venezuela<br>
-<a target="_blank" href="http://codhez.ong/feria/">Feria de Derechos Humanos</a><br> A promotional website for Codhez's annual Human Rights Fair<br>
+<a target="_blank" href="http://codhez.ong/feria2017/">Feria de Derechos Humanos</a><br> A promotional website for Codhez's annual Human Rights Fair<br>
 <a target="_blank" href="http://coaliciondigital.org/CoalicionDigital/">Coalición Digital</a><br> A digital archiving site made with Omeka for the Coalition of Immokalee Workers<br>
 <a target="_blank" href="https://danielcber.github.io/democracy-now/frontpage">Democracy Now!</a><br>A mock site of Democracy Now! made with Angular2<br>
 <a target="_blank" href="https://github.com/danielcber/palante">Palante</a><br>My final project for URBE's 8-month Programming course<br>
