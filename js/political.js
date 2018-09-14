@@ -64,7 +64,7 @@ $("#webdev").on("click", function() {
 //WEB DEV
 var translate = `
 Daniel has ample experience translating and interpreting from English to Spanish and Spanish to English in many formats.
-He has translated human rights reports to be sent to the United Nations for indigenous peoples' and Venezuelan organizations,
+He has translated human rights reports to be sent to the United Nations for indigenous peoples and Venezuelan organizations,
 articles for the grassroots worker organizations in the United States, political analysis pieces from community voices in 
 Venezuela, press releases, flyers, informational pamphlets, and even a feature length indigenous film from Brazil
 'Time was Endless'.
@@ -115,6 +115,7 @@ $("#contact").on("click", function() {
 		$("#textbox").animate({opacity:"1"});
 	}, 500);
 });
+
 
 
 
